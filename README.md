@@ -99,10 +99,6 @@ Todos os estilos estão centralizados em `src/index.css` para fácil manutençã
 
 Este projeto está sob licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
-## 👨‍💻 Autor
-
-Desenvolvido com ❤️
-
 ---
 
 **Gostou do projeto? Deixe uma ⭐ no repositório!**
